@@ -148,7 +148,7 @@ body {
 }
 
 .hero-content {
-  padding: 200px 280px;
+  padding: 200px 0;
   text-align: center;
 }
 
@@ -249,7 +249,7 @@ body {
 
 .team-wrap {
   width: 270px;
-  padding: 30px 60px;
+  padding: 30px 10px;
   text-align: center;
   background-color: #fff;
 }
